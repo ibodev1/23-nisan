@@ -156,11 +156,11 @@ function cevap() {
     button.innerHTML = "Evet! 23.";
   }
   else if(sira == 3) {
-    p.innerHTML = "Çünkü 23 Nisan Mustafa Kemal Atatürk tarafından dünya çocuklarına armagan edilmistir. ";
+    p.innerHTML = "23 Nisan Mustafa Kemal Atatürk tarafından dünya çocuklarına armagan edilmistir. ";
     button.innerHTML = "Neden 23 Nisan?";
   }
   else if(sira == 4) {
-    p.innerHTML = "Güzel soru! Çünkü Türkiye Büyük Millet Meclisi 23 Nisanda Kurulmustur.";
+    p.innerHTML = "Güzel soru! Türkiye Büyük Millet Meclisi 23 Nisan'da Kurulmustur.";
     button.innerHTML = "Tesekkür Ederim!";
   }
   else if(sira == 5) {
